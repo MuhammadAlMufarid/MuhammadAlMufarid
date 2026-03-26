@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Muhammad Al-Mufarid
 
-![img1](img/github_png1.png)
+![img1](img/github_png2.png)
 
 <!--
 **MuhammadAlMufarid/MuhammadAlMufarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,20 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on ITB STIKOM Bali
 - 🌱 I’m currently learning **javascript**
+- 😈😈😈😈
 
-![Dead note](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptNHA5YWhub28zczR3ZHJjcWt2d2c0aHRvYnlxNmw0dXl3aWk2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
+##### Skills
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+##### Contact with me
+
+[![ig](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wibu.upgraded)
+
+##### My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAlMufarid)](https://github.com/MuhammadAlMufarid/github-readme-stats)
