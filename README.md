@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, i'm Muhammad Al-Mufarid
 
 <!--
 **MuhammadAlMufarid/MuhammadAlMufarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently studying on ITB STIKOM Bali
+🌱 I’m currently learning **javascript**
+.
+.
+.
+![Dead note](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptNHA5YWhub28zczR3ZHJjcWt2d2c0aHRvYnlxNmw0dXl3aWk2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
